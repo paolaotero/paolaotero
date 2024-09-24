@@ -10,7 +10,7 @@ import Link from "./components/link/link";
 
 const theme = {
   colors: {
-    primary: "#00000",
+    primary: "#000000",
     secondary: "#5E8BFF",
   },
 };

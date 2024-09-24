@@ -3,4 +3,5 @@ import Link from "next/link";
 
 export const Component = styled(Link)`
   color: ${(props) => props.theme.colors.primary};
+  text-decoration: none;
 `;

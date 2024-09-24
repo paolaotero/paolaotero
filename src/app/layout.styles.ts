@@ -10,4 +10,6 @@ export const Header = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
+  padding-block-end: 1.25rem;
+  border-bottom: 2px ${(props) => props.theme.colors.primary} solid;
 `;

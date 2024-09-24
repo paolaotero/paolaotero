@@ -7,14 +7,15 @@ export const Container = styled.div`
 `;
 
 export const Title = styled.h1`
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   line-height: 0.5;
 `;
 
 export const Text = styled.p`
-  font-size: 1rem;
+  font-size: 1.25rem;
 `;
 
 export const Icon = styled.span`
   display: block;
+  font-size: 30px;
 `;
